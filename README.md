@@ -1,5 +1,10 @@
-### Hi there 👋
+### ![Alt text](/images/25666833.png)
+# Oh hi there! 👋
+ My name is Mehdi Naoufel and I am a FullStack dev looking for work! 🔭
+ 
+I am also a photographer for close to 15 years now! 📷
 
+I recently completed the Web Development Bootcamp at Le Wagon and I am always looking to learn more!
 <!--
 **gripsx/gripsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
